@@ -1,0 +1,10 @@
+ru\netology\springbootauthorization\exception\UnauthorizedUser.class
+ru\netology\springbootauthorization\repository\UserRepository.class
+ru\netology\springbootauthorization\config\JavaConfig.class
+ru\netology\springbootauthorization\service\AuthorizationService.class
+ru\netology\springbootauthorization\model\User.class
+ru\netology\springbootauthorization\authorities\Authorities.class
+ru\netology\springbootauthorization\controller\AuthorizationController.class
+ru\netology\springbootauthorization\controller\ExceptionController.class
+ru\netology\springbootauthorization\SpringBootAuthorizationApplication.class
+ru\netology\springbootauthorization\exception\InvalidData.class

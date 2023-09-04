@@ -1,0 +1,10 @@
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\config\JavaConfig.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\controller\ExceptionController.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\controller\AuthorizationController.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\service\AuthorizationService.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\authorities\Authorities.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\SpringBootAuthorizationApplication.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\repository\UserRepository.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\exception\InvalidData.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\model\User.java
+C:\Java2\MyProject\SpringBootAuthorization\src\main\java\ru\netology\springbootauthorization\exception\UnauthorizedUser.java
